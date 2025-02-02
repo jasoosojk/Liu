@@ -50,7 +50,5 @@ def main():
     # Run the bot until you press Ctrl+C
     updater.idle()
 
-if __name__ == '__main__':
-    main()
-_ == '__main__':
+if __name__ == '__main__'
     main()
